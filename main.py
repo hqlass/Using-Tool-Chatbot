@@ -1,8 +1,8 @@
 """
 Unified Agent
 ─────────────────────────────────────────
-Özellikler:
-  • Calculator (AST tabanlı, safe)
+features:
+  • Calculator (AST , safe)
   • Weather     (WeatherAPI)
   • Web Search       (Tavily)
   • OCR / Image    (EasyOCR + OpenCV)
